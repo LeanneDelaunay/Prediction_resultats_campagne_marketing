@@ -1,7 +1,7 @@
 # Prediction_resultats_campagne_marketing
 Ce projet a pour objectif prédire les résultats d'une campagne marketing dans le secteur bancaire.
 
-Ce projet a été réalisé lors de ma formation de Data Analyst en collaboration avec Raphaële ADDALA et Alioune Badara SARR.
+Il a été réalisé lors de ma formation de Data Analyst en collaboration avec Raphaële ADDALA et Alioune Badara SARR.
 Son objectif est de prédire les réusltats d'une campagne marketing dans le secteur bancaire.
 
 * Le dataset est disponible publiquement sur [Kaggle](https://www.kaggle.com/janiobachmann/bank-marketing-dataset)
